@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshot
 
+![screenshot](https://user-images.githubusercontent.com/73128809/148595336-28ba2f65-09b7-4d2c-b8f4-078d1fec94fe.png)
+
+
 The purpose of this project is start getting familiar with React. 
 ## Built With
 
