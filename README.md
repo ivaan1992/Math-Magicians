@@ -18,8 +18,6 @@ The purpose of this project is start getting familiar with React.
  
 ## Live Demo
 
-
- 
  <a href="https://math-magicians-project-ivan.herokuapp.com/">Heroku</a>
  
  <a href="https://61e5ecc310fde352f7a70cd0--flamboyant-jackson-910c04.netlify.app/">Netlify</a>
