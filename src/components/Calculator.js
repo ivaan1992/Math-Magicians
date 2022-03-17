@@ -3,6 +3,7 @@ import calculate from '../logic/calculate';
 
 const Calculator = () => {
   const [states, setState] = useState({});
+  
 
   const Calculate = (e) => {
     setState(calculate(states, e.target.value));
