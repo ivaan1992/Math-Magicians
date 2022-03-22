@@ -5,7 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/73128809/148595336-28ba2f65-09b7-4d2c-b8f4-078d1fec94fe.png)
+![Captura de pantalla de 2022-03-22 16-01-15](https://user-images.githubusercontent.com/73128809/159584206-9351a4cc-083d-4562-870f-700cfc9b415b.png)
+![Captura de pantalla de 2022-03-22 16-01-20](https://user-images.githubusercontent.com/73128809/159584208-a08e76d6-8276-4ac4-9962-d49937ec4c5d.png)
+![Captura de pantalla de 2022-03-22 16-01-23](https://user-images.githubusercontent.com/73128809/159584210-02929fb7-93ff-4d86-913b-ba1626eeaea5.png)
+
 
 
 The purpose of this project is start getting familiar with React. 
