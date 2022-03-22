@@ -20,7 +20,7 @@ const Calculator = () => {
   };
   return (
     <div className="calculator-section">
-      <h2>Let`s do some math</h2>
+      <h3>Let`s do some math!!</h3>
       <div className="Calculator">
         <span className="input"><span className="number">{Display() || 0 }</span></span>
         <button onClick={Calculate} type="submit" value="AC" className="calculatorBtn">AC</button>
